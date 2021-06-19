@@ -1,0 +1,23 @@
+
+99_Pipeline_Translation_COME BACK TO THIS TO CLEAN 91.ipynb
+all_20k_songs.pkl
+artist-uris.csv
+artist_class_count_df.pkl
+artist_df.pkl
+base_clean_df.pkl
+class_type_reorg_df.pkl
+kag2_spot_artists.zip
+kag_spot_artist_uris.zip
+larger_spot_artist_id_class_count.pkl
+larger_spot_leftover_artists_df.pkl
+last_10k_songs.pkl
+leftover_artists_df.pkl
+leftover_songs_and_id_df.pkl
+leftover_songs_id_spotinfo_df.pkl
+master_first_classes_with_stats.pkl
+master_song_df.pkl
+new_class_types_with_artists.pkl
+song_class_count_df.pkl
+song_id_class_count.pkl
+songs_df.pkl
+tracks.zip
